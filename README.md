@@ -1,5 +1,5 @@
 # Using Shortcuts to remember the future
-A Shortcut—or collection of Shortcuts—to help you push through a stressful milestone using futures thinking.
+A Shortcut—or collection of Shortcuts—to help you push through a stressful milestone using (short-term) [futures thinking](https://fulcra.design/resources#getting-started-with-futures-thinking).
 
 ## Installation
 These Shortcuts require Shortcuts on iOS. To install them, simply download the links on an iOS device and install. **Important: you must first go into Settings → Shortcuts and enable the "Allow Untrusted Shortcuts" preference before your device will let you install these.**
