@@ -7,8 +7,6 @@ These Shortcuts require Shortcuts on iOS. To install them, simply download the l
 ## [Basic edition](https://www.icloud.com/shortcuts/6f6fb855bb684956a8e678be4db6580e)
 I mean, the basic edition is simple. List a few nice visions as `Text`, `Split Text` by new lines, `Get Item from List` randomly, and `Show Result`. 
 
-https://www.icloud.com/shortcuts/6f6fb855bb684956a8e678be4db6580e
-
 ## Getting fancy
 My version is a little fancier. I put my items in a [DEVONthink](http://devontechnologies.com) markdown file to make it easy to add to it anywhere, and I used recursion to make it easy to loop. This made it more complicated, of course. There are five (five!) interlocking Shortcuts. 
 
