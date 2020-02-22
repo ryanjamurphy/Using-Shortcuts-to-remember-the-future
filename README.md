@@ -1,6 +1,11 @@
 # Using Shortcuts to remember the future
 A Shortcut—or collection of Shortcuts—to help you push through a stressful milestone using (short-term) [futures thinking](https://fulcra.design/resources#getting-started-with-futures-thinking).
 
+## The idea
+To help conquer procrastination, I procrastinated studying for my comprehensive exams by developing this Shortcut.
+
+When a stressful milestone's got you down, it can help to think ahead to what life will be like once you're finished with it. Unfortunately, it can be tough to imagine life past the challenge you're facing. This Shortcut externalizes that a little bit. You create a list of the things you're looking forward to once you've shed this burden, and the Shortcut reminds you of one of those future memories (at random) with the tap of a button. You can use this to shake off the doom and gloom and motivate yourself to get your work done.
+
 ## Installation
 These Shortcuts require Shortcuts on iOS. To install them, simply download the links on an iOS device and install. **Important: you must first go into Settings → Shortcuts and enable the "Allow Untrusted Shortcuts" preference before your device will let you install these.**
 
