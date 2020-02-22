@@ -4,7 +4,7 @@ A Shortcut—or collection of Shortcuts—to help you push through a stressful m
 ## Installation
 These Shortcuts require Shortcuts on iOS. To install them, simply download the links on an iOS device and install. **Important: you must first go into Settings → Shortcuts and enable the "Allow Untrusted Shortcuts" preference before your device will let you install these.**
 
-## Basic edition
+## [Basic edition](https://www.icloud.com/shortcuts/6f6fb855bb684956a8e678be4db6580e)
 I mean, the basic edition is simple. List a few nice visions as `Text`, `Split Text` by new lines, `Get Item from List` randomly, and `Show Result`. 
 
 https://www.icloud.com/shortcuts/6f6fb855bb684956a8e678be4db6580e
